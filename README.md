@@ -2,7 +2,7 @@
 <h3 align="left">An aspiring Web Developer from India.</h3>
 <br/>
 
-- 🌱 I’m currently learning **Next.js, React, Redux, Web Backend Development**
+- 🌱 I’m currently working with **Next.js, React, Redux, Web Backend Development**
 
 - 👨‍💻 Check out my portfolio on [https://abhi-j0407.github.io/portfolio-neobrut/](https://abhi-j0407.github.io/portfolio-neobrut/)
 
